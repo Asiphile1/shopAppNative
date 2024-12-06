@@ -132,7 +132,7 @@ expo start -c
 
 Asiphile Mthethwa
 
-* GitHub
+* GitHub: https://github.com/Asiphile1
 * LinkedIn
 
 ## 📄 License
