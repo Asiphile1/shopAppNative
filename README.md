@@ -133,7 +133,7 @@ expo start -c
 Asiphile Mthethwa
 
 * GitHub: https://github.com/Asiphile1
-* LinkedIn
+* LinkedIn: www.linkedin.com/in/asiphile-mthethwa-60b75722b
 
 ## 📄 License
 This project is licensed under the MIT License. See the LICENSE file for details.
